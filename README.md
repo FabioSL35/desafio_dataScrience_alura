@@ -1,5 +1,4 @@
 # desafio_dataScrience_alura
-# Aqui está o relatório completo baseado na análise dos dados para ajudar o Sr. João a decidir qual loja vender e qual manter para maximizar o lucro:
 
 ---
 
@@ -84,4 +83,3 @@ A venda da **Loja 4** permitirá reinvestir em um novo negócio com maior potenc
 
 ---
 
-Esse relatório já está formatado para ser incluído no seu projeto no GitHub! Se precisar de ajustes ou melhorias na apresentação, é só me avisar. 🚀📊
